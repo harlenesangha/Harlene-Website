@@ -1,0 +1,24 @@
+body{
+    background-color: darkslategray;
+    background-image: url(images/purple.jpg);
+    font-family: fantasy;
+    font-size: 16px;
+    font-weight: 100;
+}
+a:hover{
+    color: deeppink;
+}
+h1{
+    color:rgb(11, 0, 167);
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.nav{
+    padding-bottom: 10px;
+}
+.box{
+    border: 5px black solid;
+    text-indent: 10px;
+}
